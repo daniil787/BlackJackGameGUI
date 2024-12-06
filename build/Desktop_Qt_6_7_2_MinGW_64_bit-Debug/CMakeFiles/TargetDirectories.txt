@@ -1,0 +1,14 @@
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/BlackJack.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/BlackJack_lupdate.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/update_translations.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/BlackJack_lrelease.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/release_translations.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/BlackJack_other_files.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/BlackJack_autogen_timestamp_deps.dir
+C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/BlackJack_autogen.dir

@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b4c3008c4b4f500cf485.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BlackJack",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BlackJack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlackJack-Debug-b5fdd74c288dba696334.json",
+					"name" : "BlackJack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BlackJack_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlackJack_autogen-Debug-b11c02658adb8f646458.json",
+					"name" : "BlackJack_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BlackJack_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlackJack_autogen_timestamp_deps-Debug-5f8a70a3139685ea5461.json",
+					"name" : "BlackJack_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BlackJack_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlackJack_lrelease-Debug-7e345f9960ce99607844.json",
+					"name" : "BlackJack_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BlackJack_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlackJack_lupdate-Debug-cb2be9f4b898c2f8add5.json",
+					"name" : "BlackJack_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BlackJack_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlackJack_other_files-Debug-627dcbc907dc7a58953e.json",
+					"name" : "BlackJack_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Debug-c80a61f368df72c3b7f3.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Debug-d14b8325682a21781e4e.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/BlackJack/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Documents/BlackJack"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
